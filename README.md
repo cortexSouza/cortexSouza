@@ -35,7 +35,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://www.youtube.com/watch?v=oT_8yN5RVow" alt="Imagem">
+  <img align="center" src="https://github.com/user-attachments/assets/4692cd8d-baf7-40e4-a807-6b33695f0064">
 </p>
 
 ## 🔥 Skills
