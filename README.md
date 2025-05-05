@@ -6,11 +6,11 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Gabriel! A passionate technology student from Brazil.
+  Hi 👋, I'm Gabriel! 
 
-  - 🌱 I’m currently studying Systems Analysis and Development, and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying Computer Science in Estacio de Sá />
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Cyber Security.
+  - 🔭 I am looking for my first job opportunity.
 </p>
 
 <!-- Dropdown -->
