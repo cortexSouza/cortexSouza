@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Gabriel! 
 
-  - 🌱 I’m currently studying Computer Science in Estacio de Sá />
+  - 🌱 I’m currently studying Computer Science in Estacio de Sá
 
   - 🔭 I am looking for my first job opportunity.
 </p>
