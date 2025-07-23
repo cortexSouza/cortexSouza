@@ -30,7 +30,7 @@
 ![cortexSouza GitHub stats](https://github-readme-stats.vercel.app/api?username=cortexSouza&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
-## Portfolio:
+## Portfolio: https://cortexsouza.github.io/portfolio/ (Em desenvolvimento)
 - Loading...
 
 <!-- GIF -->
